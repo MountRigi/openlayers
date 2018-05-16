@@ -40,6 +40,7 @@
     "css/ol.css"
   ],
   "dependencies": {
+    "babel-eslint": "^8.2.3",
     "pbf": "3.1.0",
     "pixelworks": "1.1.0",
     "rbush": "2.0.2"
